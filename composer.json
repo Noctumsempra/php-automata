@@ -1,0 +1,21 @@
+{
+  "name": "noctumsempra/fsmlib",
+  "description": "Library for Finite State Machine handling.",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Noctumsempra\\Fsmlib\\": "src/",
+      "Tests\\": "tests/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Noctumsempra",
+      "email": "assembler.man@gmail.com"
+    }
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "^11.1",
+    "ext-xdebug": "*"
+  }
+}
