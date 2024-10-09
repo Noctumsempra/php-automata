@@ -1,6 +1,7 @@
-# FSMLib
+# **FSMLib** _for_ **PHP**
+
 ## Description
-PHP implementation of Automatas (Finite State Machines)
+PHP implementation of _**deterministic**_ **Automatas** (Finite State Machines)
 
 ## Installation
 ```bash
