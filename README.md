@@ -4,7 +4,7 @@ PHP implementation of Automatas (Finite State Machines)
 
 ## Installation
 ```bash
-composer require fsmlib/fsmlib
+composer require fsmlib/fsmlib --working-dir=/ruta/a/la/libreria
 ```
 
 ## Usage
