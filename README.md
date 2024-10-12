@@ -5,7 +5,7 @@ PHP implementation of _**deterministic**_ **Automatas** (Finite State Machines)
 
 ## Installation
 ```bash
-composer require fsmlib/fsmlib --working-dir=/ruta/a/la/libreria
+composer require noctumsempra/fsmlib --working-dir=/ruta/a/la/libreria
 ```
 
 ## Usage
